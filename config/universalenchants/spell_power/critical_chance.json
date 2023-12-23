@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "minecraft:flame",
+    "minecraft:quick_charge",
+    "minecraft:piercing",
+    "minecraft:power",
+    "minecraft:infinity",
+    "minecraft:punch",
+    "minecraft:multishot"
+  ]
+}
