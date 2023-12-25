@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:fishing_rod"
+  ],
+  "incompatible": [
+    "spellbound:dullness",
+    "minecraft:lure"
+  ]
+}

@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -123,6 +123,7 @@ key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.k
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o
@@ -136,6 +137,10 @@ key_keybindings.spell_engine.spell_hotbar_6:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
+key_treechop.key.toggle_chopping:key.keyboard.unknown
+key_treechop.key.toggle_felling:key.keyboard.unknown
+key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
+key_treechop.key.open_settings_overlay:key.keyboard.n
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m

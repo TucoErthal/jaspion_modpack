@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "spellbound:phase_leap",
+    "spell_power:spell_power",
+    "minecraft:frost_walker",
+    "spellbound:phase_strafe",
+    "minecraft:aqua_affinity",
+    "spellbound:tethering",
+    "minecraft:depth_strider",
+    "spellbound:impersonal",
+    "spell_power:energize",
+    "spell_power:soulfrost",
+    "spellbound:cave_in",
+    "spell_power:critical_damage",
+    "minecraft:channeling",
+    "minecraft:knockback",
+    "minecraft:loyalty",
+    "spell_power:critical_chance",
+    "spellbound:airline",
+    "spellbound:warlike",
+    "spellbound:repulsive",
+    "spell_power:haste",
+    "spell_power:sunfire",
+    "minecraft:riptide",
+    "spellbound:launching",
+    "minecraft:soul_speed",
+    "minecraft:punch",
+    "minecraft:swift_sneak",
+    "spellbound:hover"
+  ]
+}

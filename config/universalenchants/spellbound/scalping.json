@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:spellbound_axe"
+  ],
+  "incompatible": [
+    "minecraft:silk_touch",
+    "minecraft:looting",
+    "spellbound:prospector",
+    "spellbound:despoiling"
+  ]
+}

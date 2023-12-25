@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "minecraft:mending",
+    "spellbound:resurfacing",
+    "minecraft:infinity",
+    "spellbound:selfish",
+    "spell_engine:spell_infinity",
+    "spellbound:photosynthetic",
+    "spellbound:skotosynthetic",
+    "spellbound:legacy"
+  ]
+}
