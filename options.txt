@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -34,7 +34,7 @@ gamma:1.0
 renderDistance:8
 simulationDistance:8
 entityDistanceScaling:1.0
-guiScale:0
+guiScale:3
 particles:0
 maxFps:30
 graphicsMode:0
@@ -197,8 +197,8 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.5011037527593818
+soundCategory_music:0.5093896713615024
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
