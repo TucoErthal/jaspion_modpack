@@ -18,7 +18,7 @@
       "mod.stepup.config.nostepup",
       "mod.stepup.config.vanillajump"
     ],
-    "key": "Default on new servers",
+    "key": "mod.stepup.config.default",
     "toolTip": "",
     "value": 0,
     "defaultValue": 0,
@@ -33,8 +33,8 @@
     ],
     "key": "Jaspion",
     "toolTip": "mod.stepup.config.tt.onthisserver",
-    "value": 1,
-    "defaultValue": 1,
+    "value": 0,
+    "defaultValue": 0,
     "minValue": 0,
     "maxValue": 2
   },
@@ -49,6 +49,6 @@
     "value": 0,
     "defaultValue": 0,
     "minValue": 0,
-    "maxValue": 0
+    "maxValue": 2
   }
 }

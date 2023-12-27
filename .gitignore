@@ -1,4 +1,6 @@
-backups
+backups/
+debug/
 logs/
 saves/
 world/
+Xaero*/
