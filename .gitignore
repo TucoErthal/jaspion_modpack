@@ -1,6 +1,12 @@
-backups/
-debug/
-logs/
-saves/
-world/
-Xaero*/
+# Ignore everything
+*
+
+# Except
+!config/
+!mods/
+!.curseclient
+!.gitattributes
+!.gitignore
+!minecraftinstance.json
+!options.txt
+!README.md
